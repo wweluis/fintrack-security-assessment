@@ -23,6 +23,9 @@ a lo largo del curso. Pista de la Sesión 3: el perímetro de FinTrack no es
 la red — es la identidad.]
 
 ## Autor
-[LUIS ALVARADO] · [www.linkedin.com/in/luis-alvarado-14a44a317] · [https://github.com/wweluis]
+**Luis Alvarado**
+
+- LinkedIn: www.linkedin.com/in/luis-alvarado-14a44a317
+- GitHub: https://github.com/wweluis
 
 
