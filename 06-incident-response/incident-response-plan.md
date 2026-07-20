@@ -185,8 +185,4 @@ Un incidente debe escalarse cuando:
 | 30 - 45 minutos | Investigar alcance y eliminar causa inicial |
 | 45 - 60 minutos | Recuperar servicios críticos y comunicar estado |
 
-## Cómo escalar
-[Cuándo se escala, a quién, por qué canal.]
 
-## Contactos
-[A quién se avisa: interno y externo.]
