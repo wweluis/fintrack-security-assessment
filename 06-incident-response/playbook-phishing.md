@@ -1,21 +1,17 @@
-# Playbook de phishing
+# Playbook — Incidente de phishing
 
-## Detección
+Procedimiento paso a paso para el incidente más probable (R1).
 
-- Usuario reporta correo sospechoso.
-- SIEM detecta inicio de sesión inusual.
+**Cuándo se activa:** [el disparador concreto]
 
-## Contención
+## Pasos
 
-- Bloquear cuenta comprometida.
-- Revocar sesiones activas.
+1. [primer paso: qué hace la persona que detecta]
+2.
+3.
 
-## Erradicación
+## Qué NO hacer
+[Errores comunes bajo presión que empeoran el incidente.]
 
-- Restablecer contraseña.
-- Verificar MFA.
-
-## Recuperación
-
-- Habilitar acceso nuevamente.
-- Monitorear actividad 72 horas.
+## Después
+[Qué se documenta para el postmortem.]
